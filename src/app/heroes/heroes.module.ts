@@ -14,7 +14,6 @@ import { ListadoComponent } from "./listado/listado.component";
     ],
     imports: [
         CommonModule,
-        HeroesModule,
     ]
 })
 
